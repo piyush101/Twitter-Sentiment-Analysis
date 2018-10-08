@@ -10,9 +10,8 @@ Dataset is taken from https://datahack.analyticsvidhya.com/contest/practice-prob
 
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.
 
--pandas
-
--numpy
--scikit-learn
--scipy
--nltk
+1.pandas
+2.numpy
+3.scikit-learn
+4.scipy
+5.nltk
